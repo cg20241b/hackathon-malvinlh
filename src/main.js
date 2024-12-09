@@ -1,3 +1,5 @@
+// To see the result, use npx vite in the terminal.
+
 import * as THREE from "three";
 import { FontLoader } from "three/examples/jsm/loaders/FontLoader.js";
 import { TextGeometry } from "three/examples/jsm/geometries/TextGeometry.js";
